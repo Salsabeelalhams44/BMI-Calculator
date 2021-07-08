@@ -1,5 +1,4 @@
-import 'package:bmi_calculator/widget/gender_widget.dart';
-import 'package:bmi_calculator/widget/reusable_widget.dart';
+import 'package:bmi_calculator/components/reusable_widget.dart';
 import 'package:flutter/material.dart';
 
 class ResultPage extends StatelessWidget {

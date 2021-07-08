@@ -1,4 +1,3 @@
-import 'package:bmi_calculator/components/constant.dart';
 import 'package:flutter/material.dart';
 
 class GenderWidget extends StatelessWidget {

@@ -1,8 +1,7 @@
 import 'dart:math';
-
-import 'package:bmi_calculator/components/constant.dart';
-import 'package:bmi_calculator/widget/gender_widget.dart';
-import 'package:bmi_calculator/widget/reusable_widget.dart';
+import 'package:bmi_calculator/components/bottom_button.dart';
+import 'package:bmi_calculator/components/gender_widget.dart';
+import 'package:bmi_calculator/components/reusable_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'result_page.dart';
